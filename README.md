@@ -1,3 +1,7 @@
+
+![Apps-Player-Video-icon](https://github.com/user-attachments/assets/799f8ddc-d154-4ad5-b0f4-e17f8fbab733)
+
+
 Project Title: Swipe Video App for Android
 
 Project Description:
