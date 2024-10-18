@@ -1,5 +1,5 @@
 
-![Apps-Player-Video-icon](https://github.com/user-attachments/assets/799f8ddc-d154-4ad5-b0f4-e17f8fbab733)
+<img width="127" alt="Screenshot 2024-10-17 at 10 13 39 PM" src="https://github.com/user-attachments/assets/806a267a-4de8-488a-9289-0b4296e10713">
 
 
 Project Title: Swipe Video App for Android
